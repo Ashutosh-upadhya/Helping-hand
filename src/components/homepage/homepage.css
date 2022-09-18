@@ -1,0 +1,22 @@
+.MuiFormControl-root {
+  margin-bottom: 35px !important;
+}
+
+button:focus {
+  outline: none;
+}
+/*# sourceMappingURL=homepage.css.map */
+
+.bg-homepage {
+  background-color:  #C4DDFF;
+  height: max-content;
+  min-height: 100vh;
+}
+.bg-entry{
+ background-color: #00203fff;
+  
+}
+
+.bg-entry-button{
+  background-color: #00203fff;
+}

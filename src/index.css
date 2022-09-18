@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~react-vis/dist/style';
+
+@layer utilities {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  .MuiInputBase-root {
+    color: black;
+  }
+
+  @variants dark {
+    .MuiInputBase-root-dark {
+      color: white !important;
+    }
+
+    
+  }
+}

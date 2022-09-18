@@ -1,0 +1,13 @@
+/* No CSS *//*# sourceMappingURL=navbar.css.map */
+.bg-navbar{
+    background-color: #00203fff;
+}
+.navbar-header{
+    color: #FEE2C5;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 10px;
+    
+}
